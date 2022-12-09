@@ -1,0 +1,131 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.menu{
+   height: 50px; 
+   padding: 30px;
+   text-align: center;
+   word-spacing: 30px;
+   margin: 10px 0px 10px 0px;
+}
+a{
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    color:antiquewhite;
+}
+
+aside{
+    margin: 10px;
+    padding: 33px;
+    width: 25%;
+    float: left;
+    display: block;
+}
+
+
+/*----------------FONDOS--------------*/
+body{
+    background-color: #DBFDD8;
+}
+
+.fondo1{
+    background-image: url(/imagenes/cact.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+}
+
+.inicio{
+    margin: 15px;
+    padding: 20px;
+}
+.titulos{
+    text-align: center;
+    position: absolute;
+}
+
+.btn1 {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #8F100B;
+    --bs-btn-border-color: #8F100B;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #8F100B;
+    --bs-btn-hover-border-color: #ff70bf;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #ff70bf;
+    --bs-btn-active-border-color: #ff70bf;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #8F100B;
+    --bs-btn-disabled-border-color: #8F100B;
+}
+
+/*--------PALETA DE COLORES--------------*/
+.verde1{
+    background-color: #DBFDD8;
+}
+
+.verde2{
+    background-color: #cdf5b7;
+}
+
+.verde3{
+    background-color: #bbefa9;
+}
+
+.verde4{
+    background-color: #a9e99b;
+}
+
+.verde5{
+    background-color: #96d289;
+}
+
+.verdeO{
+    background-color: #007200;
+}
+
+.vino{
+    background: #8F100B;
+}
+
+.rosa1{
+    background-color: #ffcae9; 
+}
+
+.rosa2{
+    background-color: #ff85c8; 
+}
+
+.rosa3{
+    background-color: #ff7bc4; 
+}
+
+.rosa4{
+    background-color: #ff70bf; 
+}
+.rosa{
+   background-color: #ffc9b9;
+}
+
+/*
+.verdeO{
+    2c6e49
+}
+
+.verdeC{
+    #4c956c
+}
+
+.beige{
+    #fefee3
+}
+
+cafe{
+    #d68c45
+}
+*/
